@@ -1,6 +1,3 @@
-Perfeito, David! Vou te entregar um **README pronto no mesmo estilo** do seu portfólio, só que adaptado para o seu projeto do **Cisco Packet Tracer – Arquitetura de Redes**.
-
-Você pode copiar e colar direto no seu repositório do GitHub. 👇
 
 ---
 
